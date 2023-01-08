@@ -1,12 +1,13 @@
 mi_variable = 12
 print(mi_variable)
 
-mi_variable2 = 'dario'
+mi_variable2 = 'diego'
 print(mi_variable2)
 
-mi_complejo = 5 + 7j
+mi_complejo = 5 + 7
 print(mi_complejo)
 
 
-mi_numero = input('Ingrese un valor')
+mi_numero = input('Ingrese un valor: ');
+
 print('el valor ingresado fue', mi_numero)
